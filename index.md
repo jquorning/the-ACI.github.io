@@ -13,3 +13,5 @@ is to minimize suffering among the faithfull.
 ADA is the goal, Ada is the means.
 
 Motto : Ada-for-ADA or ADA-from-Ada
+
+[Posts](/posts/)
